@@ -9,8 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        scratchBlue: "#25b0f5",
+        scratchBg: "#62c4f5",
       },
     },
   },
